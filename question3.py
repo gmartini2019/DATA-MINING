@@ -1,4 +1,4 @@
-d = 'discrete',
+d = 'discrete'
 c = 'continuous'
 ql = 'qualitative'
 qn = 'quantitative'
