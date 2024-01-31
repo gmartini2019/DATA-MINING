@@ -3,11 +3,11 @@ f = False
 
 def question10_1():
     
-    answer = True
+    answer = False
     
     return answer
 
-def question10_2():
+def question10_2(): ##
 
     answer = True
 
@@ -19,7 +19,7 @@ def question10_3():
 
     return answer
 
-def question10_4():
+def question10_4(): ##
 
     answer = False
 
@@ -55,8 +55,8 @@ def question10_9():
 
     return answer
 
-def question10_10():
+def question10_10(): ##
 
-    answer = True
+    answer = False
 
     return answer

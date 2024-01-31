@@ -1,3 +1,5 @@
+c = 'Change'
+n = 'No Change'
 
 def question6_1():
 
@@ -19,7 +21,7 @@ def question6_2():
 def question6_3():
 
     answer = {
-        'equal_width': ['change', 2], 
+        'equal_width': ['change', 4], 
         'equal_frequency': ['no change', 9]
         }
     return answer 
