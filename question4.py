@@ -17,7 +17,7 @@ def question4_6():
     return ['ratio', 'ordinal']
 
 def question4_7():
-    return ['ratio', 'ratio']
+    return ['ratio', 'interval']
 
 def question4_8():
-    return ['ratio', 'ratio']
+    return ['ratio', 'interval']
