@@ -8,11 +8,11 @@ r = 'ratio'
 n = 'nominal'
 
 def question3_1():
-    answer = [c,ql, r]
+    answer = [d,qn]
     return answer
 
 def question3_2():
-    answer = [d,qn,o]
+    answer = [d,ql,o]
     return answer
 
 def question3_3():
